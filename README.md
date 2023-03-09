@@ -5,7 +5,7 @@ I am motivated by the urge to learn, create, and invent. As a professional and a
 Skills: JAVA/SPRING BOOT/AWS/LINUX/TERRAFORM/ HTML / CSS
 
 - 🔭 I’m currently working on personal blogsite 
-- 🌱 I’m currently learning spring microservvice 
+- 🌱 I’m currently learning spring microservice 
 - 👯 I’m looking to collaborate on open source project 
 - 📫 How to reach me: send me an email or follow me on twitter 
 - 😄 Pronouns: he/him 
