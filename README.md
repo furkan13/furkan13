@@ -1,10 +1,8 @@
 ### Hi there 👋, my name is Furkan
-#### I am  Software Developer
-![I am  Software Developer](https://drive.google.com/file/d/19pV1EXeiBt5-LuwOd81C3MJG6nWqtJQA/view?usp=share_link)
-
+#### I am  a Software Developer
 I am motivated by the urge to learn, create, and invent. As a professional and a person, I am continuously on the lookout for new challenges and development chances. I am also a team player who enjoys working with others to attain shared objectives.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JAVA/SPRING BOOT/AWS/LINUX/TERRAFORM/ HTML / CSS
 
 - 🔭 I’m currently working on personal blogsite 
 - 🌱 I’m currently learning spring microservvice 
@@ -21,9 +19,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkan13)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=furkan13&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=furkan13&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=furkan13)  
-
-![GitHub metrics](https://metrics.lecoq.io/furkan13)  
-
+![Profile views](https://gpvc.arturio.dev/furkan13)  
